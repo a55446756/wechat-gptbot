@@ -1,6 +1,6 @@
 {
   "openai_api_key": "YOUR API SECRET KEY",
-  "model": "gpt-4",
+  "model": "gpt-4-32k",
   "use_azure_chatgpt": false,
   "azure_deployment_id": "",
   "role_desc": "You are a helpful assistant.",
